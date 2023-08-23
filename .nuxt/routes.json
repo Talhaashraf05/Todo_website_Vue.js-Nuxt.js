@@ -1,0 +1,23 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "C:\\\\Users\\\\talha\\\\OneDrive\\\\Desktop\\\\Intern\\\\todo\\\\todo\\\\pages\\\\About.vue",
+    "chunkName": "pages/About",
+    "_name": "_63e1e9ba"
+  },
+  {
+    "name": "index_copy",
+    "path": "/index_copy",
+    "component": "C:\\\\Users\\\\talha\\\\OneDrive\\\\Desktop\\\\Intern\\\\todo\\\\todo\\\\pages\\\\index_copy.vue",
+    "chunkName": "pages/index_copy",
+    "_name": "_3457e976"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\talha\\\\OneDrive\\\\Desktop\\\\Intern\\\\todo\\\\todo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0c27a49f"
+  }
+]
