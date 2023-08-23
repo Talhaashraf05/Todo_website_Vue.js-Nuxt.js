@@ -12,9 +12,8 @@
             hide-details 
             clearable
           ></v-text-field>
-          
-
-    <v-list flat >
+    
+          <v-list flat >
      <div v-for= '(task,i) in tasks' :key="i" :task="task"> 
       <v-list-item @click= "donetask(task)"  :class="{ 'blue lighten-5' : task.done}">
         <template v-slot:default>
@@ -78,7 +77,6 @@
         // this.tasks = this.tasks.filter(t => t.id !== id)
         this.$store.commit('REMOVE_TASK', task)
       },
-
     }
   }
 </script>
